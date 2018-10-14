@@ -9,23 +9,22 @@ import java.util.ArrayList;
 
 public class JdbcMain {
     public static void main(String[] args) throws ClassNotFoundException {
-        // TODO: Load the SQLite JDBC driver (JDBC class implements java.sql.Driver)
+
 
         Class.forName("org.sqlite.JDBC");
 
-        // TODO: Create a DB connection
+
         try (Connection connection = DriverManager.getConnection("jdbc:sqlite:contactmgr.db")) {
 
-            // TODO: Create a SQL statement
+
             Statement statement = connection.createStatement();
 
 
-            // TODO: Create a DB table
             statement.executeUpdate("DROP TABLE IF EXISTS contacts");
             statement.executeUpdate("CREATE TABLE contacts (id INTEGER PRIMARY KEY,firstname SUBSTRING ," +
                     "lastname SUBSTRING , email SUBSTRING,phone INT (10))");
 
-            // TODO: Insert a couple contacts
+
             statement.executeUpdate("INSERT INTO  contacts(firstname,lastname,email,phone) " +
                     "VALUES ('Sherlock','Holmes','sl@gmail.com',513-238-9616)");
             statement.executeUpdate("INSERT INTO  contacts(firstname,lastname,email,phone) " +
