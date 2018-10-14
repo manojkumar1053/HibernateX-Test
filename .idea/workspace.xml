@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9f76f0ac-ebe0-40ef-98fa-14a5f7da2616" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactmgr.db" beforeDir="false" afterPath="$PROJECT_DIR$/contactmgr.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/JdbcMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JdbcMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,13 +60,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="582" />
+          <entry key="java" value="948" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="579" />
+          <entry key="JAVA" value="945" />
           <entry key="SQL" value="3" />
         </counts>
       </usages-collector>
@@ -122,8 +123,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/JdbcMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="34" column="66" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
+            <state relative-caret-position="378">
+              <caret line="42" column="94" lean-forward="true" selection-start-line="42" selection-start-column="94" selection-end-line="42" selection-end-column="94" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -540,7 +541,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539481992768" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539484297506" />
     <property name="last_opened_file_path" value="C:/tmp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -590,12 +591,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539477943686</updated>
-      <workItem from="1539477945099" duration="3805000" />
+      <workItem from="1539477945099" duration="6109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3805000" />
+    <option name="totallyTimeSpent" value="6109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -609,14 +610,14 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12244898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.3299435" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3299435" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3299435" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299435" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299435" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -687,8 +688,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JdbcMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="34" column="66" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
+        <state relative-caret-position="378">
+          <caret line="42" column="94" lean-forward="true" selection-start-line="42" selection-start-column="94" selection-end-line="42" selection-end-column="94" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
